@@ -8,6 +8,16 @@
 
 ![效果示意](https://img.shields.io/badge/风格-立体书%20%2F%20纸艺%20%2F%20水彩-orange) ![视频规格](https://img.shields.io/badge/输出-1280x720%2030fps-blue) ![许可](https://img.shields.io/badge/license-MIT-green)
 
+## 🎬 DEMO ·《陋室铭》
+
+点击封面图查看/下载完整成片（47 秒，1280×720，约 28 MB）：
+
+[![陋室铭立体书动画 DEMO](demo/cover.jpg)](https://github.com/iithink88/popup-book-video/raw/main/demo/loushiming.mp4)
+
+> 六场景依次呈现：山林茅屋 → 水潭青龙 → 陋室读书 → 青苔白鹤 → 文人谈笑 → 月夜抚琴。每场景中松树、小屋、瀑布、隐士等物体从平面地图逐个立起，停留后逐个倒下，再切换下一场景。配乐为五声音阶古筝 + 竹笛，字幕为《陋室铭》原文竖排。
+
+该 DEMO 由本技能的 `examples/陋室铭.json` 剧本生成，素材脚本与配置均已随仓库提供。
+
 ## 它能做什么
 
 | 输入 | 例子 |
